@@ -1,3 +1,12 @@
+MIPS_Processor
+===============================================
 
-#MIPS_Processor
-##Implementation Of MIPS Processor using verilog description language
+Implementation of MIPS Processor using verilog description language
+--------------------------------------------------------------------
+
+
+Implementing:
+
+- MIPS Processor
+- Hazards
+
