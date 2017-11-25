@@ -12,7 +12,8 @@ Implementing:
 
 Single Process Instruction:
 ---------------------------
-::
+Implementing:
+
 - module Program_Counter(PC_in,PC_out)  //Verina Alber
 - module Instruction_Memory (Read_address,Instruction) //Marina Saad
 - module Adder(in_1,in_2,out) //Hnaa Adel
